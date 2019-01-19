@@ -38,4 +38,5 @@ localización).
 - [Edraí Brosa](https://github.com/edrabc) (Barcelona)
 - [Sergio Mallo](https://github.com/smallo) (Barcelona)
 - [Jacob Cañadas](https://github.com/jacobcr) (Barcelona)
+- [Alonso Alvarez](https://github.com/alalga) (Madrid)
 
